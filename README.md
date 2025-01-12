@@ -1,5 +1,7 @@
 # Skyline
 
+> ## [2024](./STL/G1Joshi-2024-github-skyline.stl)
+
 > ## [2023](./STL/G1Joshi-2023-github-skyline.stl)
 
 > ## [2022](./STL/G1Joshi-2022-github-skyline.stl)
